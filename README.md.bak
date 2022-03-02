@@ -41,17 +41,17 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb](/_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb) #PySeries - [**BRADSTREET**]() - Run yourself all theses indexes quickly in Python 👌
+[#_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb](/_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb) #PySeries - [**BRADSTREET**](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a) - Run yourself all theses indexes quickly in Python 👌
 
-[#_01_SAUERBECK_Consumer_Price_Index(CPI)_ARITHMETIC](/_01_SAUERBECK_Consumer_Price_Index(CPI)_ARITHMETIC.ipynb) #PySeries - [**SAUERBECK_ARITHMETIC**]()  👌
+[#_01_SAUERBECK_Consumer_Price_Index(CPI)_ARITHMETIC](/_01_SAUERBECK_Consumer_Price_Index(CPI)_ARITHMETIC.ipynb) #PySeries - [**SAUERBECK_ARITHMETIC**](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a)  👌
 
-[#_02_SAUERBECK_Consumer_Price_Index(CPI)_GEOMETRIC](/_02_SAUERBECK_Consumer_Price_Index(CPI)_GEOMETRIC.ipynb) #PySeries - [**SAUERBECK_GEOMETRIC**]()   👌
+[#_02_SAUERBECK_Consumer_Price_Index(CPI)_GEOMETRIC](/_02_SAUERBECK_Consumer_Price_Index(CPI)_GEOMETRIC.ipynb) #PySeries - [**SAUERBECK_GEOMETRIC**](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a)   👌
 
-[#_03_SAUERBECK_Consumer_Price_Index(CPI)_HARMONIC](/_03_SAUERBECK_Consumer_Price_Index(CPI)_HARMONIC.ipynb) #PySeries - [**SAUERBECK_HARMONIC**]()   👌
+[#_03_SAUERBECK_Consumer_Price_Index(CPI)_HARMONIC](/_03_SAUERBECK_Consumer_Price_Index(CPI)_HARMONIC.ipynb) #PySeries - [**SAUERBECK_HARMONIC**](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a)   👌
 
-[#_04_LASPEYRES_Consumer_Price_Index(CPI)](/_04_LASPEYRES_Consumer_Price_Index(CPI).ipynb) #PySeries - [**LASPEYERES **]()   👌
+[#_04_LASPEYRES_Consumer_Price_Index(CPI)](/_04_LASPEYRES_Consumer_Price_Index(CPI).ipynb) #PySeries - [**LASPEYERES **](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a)   👌
 
-[#_05_PAASCHE_Consumer_Price_Index(CPI)](/_05_PAASCHE_Consumer_Price_Index(CPI).ipynb) #PySeries - [**PAASCHE **]()   👌
+[#_05_PAASCHE_Consumer_Price_Index(CPI)](/_05_PAASCHE_Consumer_Price_Index(CPI).ipynb) #PySeries - [**PAASCHE **](https://medium.com/jungletronics/how-to-calculate-consumer-price-index-cpi-d9475e11ee3a)   👌
 
 
 ### License
