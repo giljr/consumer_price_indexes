@@ -1,0 +1,17 @@
+LINKS
+
+PYTHON:
+
+Effective Data Filtering in Pandas Using .loc[] https://towardsdatascience.com/effective-data-filtering-in-pandas-using-loc-40eb815455b6
+How to Add or Insert Row to Pandas DataFrame? https://pythonexamples.org/pandas-dataframe-add-append-row/
+LaTeX/Mathematics https://en.wikibooks.org/wiki/LaTeX/Mathematics
+Convert values in pandas dataframe to two decimal points https://stackoverflow.com/questions/46336878/convert-values-in-pandas-dataframe-to-two-decimal-points
+Deleting multiple columns based on column names in Pandas https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas
+How do I get the row count of a Pandas DataFrame? https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+Multiplying A Pandas Series With Another Series  https://pythontic.com/pandas/series-binaryoperatorfunctions/mul
+How to change the order of DataFrame columns? https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns
+
+INDEXES:
+
+How to Calculate Consumer Price Index (CPI)  https://pediaa.com/how-to-calculate-consumer-price-index-cpi/
+What is the Laspeyres Price Index? https://www.wallstreetmojo.com/laspeyres-index/
