@@ -41,9 +41,12 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#consumer_price_indexes](consumer_price_indexes/) #PySeries - [**BRADSTREET, SAUERBECK, LASPEYERES & PAASCHE TUTORIAL**]() - Run yourself all theses indexes quickly in Python 👌
-
-
+[#_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb](/_00_BRADSTREET_Consumer_Price_Index(CPI).ipynb) #PySeries - [**BRADSTREET**]() - Run yourself all theses indexes quickly in Python 👌
+[#_=_01_SAUERBECK_Consumer_Price_Index(CPI)_ARITHMETIC](/) #PySeries - [**SAUERBECK_ARITHMETIC**]()  👌
+[#_02_SAUERBECK_Consumer_Price_Index(CPI)_GEOMETRIC](/) #PySeries - [**SAUERBECK_GEOMETRIC**]()   👌
+[#_03_SAUERBECK_Consumer_Price_Index(CPI)_HARMONIC]() #PySeries - [**SAUERBECK_HARMONIC**]()   👌
+[#_04_LASPEYRES_Consumer_Price_Index(CPI)](/) #PySeries - [**LASPEYERES **]()   👌
+[#_05_PAASCHE_Consumer_Price_Index(CPI)](/) #PySeries - [**PAASCHE **]()   👌
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
